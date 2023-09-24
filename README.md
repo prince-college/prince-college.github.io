@@ -1,6 +1,5 @@
 # princecollege
 Website of my school Athugalpura Prince College
 
-If you want to be a Dev of this website Contact me via 
+If you want to be a Dev of this website Contact me. 
 
- sahan.user@gmail.com
