@@ -4,8 +4,6 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
 
 <url>
   <loc>https://princecollege.space/</loc>
@@ -47,11 +45,7 @@
   <lastmod>2023-10-13T10:20:05+00:00</lastmod>
   <priority>0.64</priority>
 </url>
-<url>
-  <loc>https://princecollege.space/testimonial.html</loc>
-  <lastmod>2023-10-13T10:20:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
+
 
 
 </urlset>
