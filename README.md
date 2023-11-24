@@ -1,5 +1,5 @@
 # princecollege
-Website of my school Athugalpura Prince College
+Website of Athugalpura Prince College
 
-If you want to be a Dev of this website Contact me. 
+If you want to be a Dev of this website Contact Us. 
 
