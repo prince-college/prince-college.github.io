@@ -9797,12 +9797,17 @@ h6,
 }
 
 .jumbotron {
-  background: linear-gradient(rgba(128, 0, 0, 0.8), rgba(128, 0, 0, 0.8)), url(../img/header.jpg), no-repeat center center;
+  background: linear-gradient(rgba(70, 0, 0, 0.8), rgba(70, 0, 0, 0.8)), url(../img/header.png), no-repeat center center;
   background-size: cover;
 }
 
-.jumbotron.page-header {
-  background: linear-gradient(rgba(128, 0, 0, 0.8), rgba(128, 0, 0, 0.8)), url(../img/about.png), no-repeat center center;
+.jumbotron.page-header.about {
+  background: linear-gradient(rgba(70, 0, 0, 0.8), rgba(70, 0, 0, 0.8)), url(../img/about.png), no-repeat center center;
+  background-size: cover;
+}
+
+.jumbotron.page-header.events {
+  background: linear-gradient(rgba(70, 0, 0, 0.8), rgba(70, 0, 0, 0.8)), url(../img/ground.jpg), no-repeat center center;
   background-size: cover;
 }
 
