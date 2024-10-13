@@ -6,42 +6,42 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://princecollege.space/</loc>
+  <loc>https://prince-college.github.io/</loc>
   <lastmod>2023-10-13T10:20:05+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://princecollege.space/index.html</loc>
+  <loc>https://prince-college.github.io/index.html</loc>
   <lastmod>2023-10-13T10:20:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://princecollege.space/about.html</loc>
+  <loc>https://prince-college.github.io/about.html</loc>
   <lastmod>2023-10-13T10:20:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://princecollege.space/course.html</loc>
+  <loc>https://prince-college.github.io/course.html</loc>
   <lastmod>2023-10-13T10:20:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://princecollege.space/contact.html</loc>
+  <loc>https://prince-college.github.io/contact.html</loc>
   <lastmod>2023-10-13T10:20:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://princecollege.space/detail.html</loc>
+  <loc>https://prince-college.github.io/detail.html</loc>
   <lastmod>2023-10-13T10:20:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://princecollege.space/feature.html</loc>
+  <loc>https://prince-college.github.io/feature.html</loc>
   <lastmod>2023-10-13T10:20:05+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://princecollege.space/team.html</loc>
+  <loc>https://prince-college.github.io/team.html</loc>
   <lastmod>2023-10-13T10:20:05+00:00</lastmod>
   <priority>0.64</priority>
 </url>
